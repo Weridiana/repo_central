@@ -1,2 +1,2 @@
 # repo_central
-repositorio central criado aula sabado prof Rucardo
+repositorio central criado aula sabado prof Ricardo
